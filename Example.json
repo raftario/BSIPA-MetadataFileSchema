@@ -1,5 +1,5 @@
 {
-  "$schema": "./Schema.json",
+  "$schema": "https://github.com/raftario/BSIPA-MetadataFileSchema/blob/master/Schema.json",
   "name": "Example Mod",
   "id": "ExampleMod",
   "description": [
