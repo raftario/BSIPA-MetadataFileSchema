@@ -72,7 +72,7 @@
       "$id": "#/properties/license",
       "type": "string",
       "title": "Mod License",
-      "description": "SPDX license expression (or \"FILE licensefilehere\" if not a valid SPDX license)"
+      "description": "SPDX license expression (or \"SEE LICENSE IN licensefilehere\" if not a valid SPDX license)"
     },
     "dependsOn": {
       "$id": "#/properties/dependsOn",
